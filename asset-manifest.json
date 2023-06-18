@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "./static/css/main.6029d1ef.css",
+    "main.js": "./static/js/main.24cb9e15.js",
+    "static/js/787.596c4548.chunk.js": "./static/js/787.596c4548.chunk.js",
+    "static/media/background2.jpg": "./static/media/background2.2ce948aa0b6e970e33d1.jpg",
+    "static/media/danhsachkenh.jpg": "./static/media/danhsachkenh.5a264c983a72ed22a0c6.jpg",
+    "static/media/camera.png": "./static/media/camera.9cc40d5a712eb9df2600.png",
+    "static/media/kenhtruyenhinh.jpg": "./static/media/kenhtruyenhinh.7cce3ea5db7782e47682.jpg",
+    "static/media/4GImg.jpg": "./static/media/4GImg.28ccca7bf2619dcbd1eb.jpg",
+    "static/media/BG.png": "./static/media/BG.1ba097ce5bd6b5c964c1.png",
+    "static/media/family.jpg": "./static/media/family.8a596de1da83e57460c6.jpg",
+    "static/media/internet.jpg": "./static/media/internet.fff4cdeb4a0318a71e86.jpg",
+    "static/media/slide3.jpg": "./static/media/slide3.bc45e8b47b2ad4ee1a5a.jpg",
+    "static/media/slide1.jpg": "./static/media/slide1.eb75261740f903dce9f2.jpg",
+    "static/media/WifiImg.jpg": "./static/media/WifiImg.60b757df621b532c4ae8.jpg",
+    "static/media/slide2.jpg": "./static/media/slide2.95247a55f2d1c7187529.jpg",
+    "static/media/zaloicon4.png": "./static/media/zaloicon4.0b08f23c29e621007c70.png",
+    "static/media/logoHeader.png": "./static/media/logoHeader.bfb6aa6d6058b86fbba6.png",
+    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "./index.html",
+    "main.6029d1ef.css.map": "./static/css/main.6029d1ef.css.map",
+    "main.24cb9e15.js.map": "./static/js/main.24cb9e15.js.map",
+    "787.596c4548.chunk.js.map": "./static/js/787.596c4548.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6029d1ef.css",
+    "static/js/main.24cb9e15.js"
+  ]
+}
